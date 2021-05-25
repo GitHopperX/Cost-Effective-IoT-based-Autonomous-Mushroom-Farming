@@ -1,0 +1,6 @@
+Solution of Automation of Mushroom Farm:
+
+Feature:
+1. Automatic Fan Controller
+2. Automatic Air-condition.
+3. Automatic water spray
